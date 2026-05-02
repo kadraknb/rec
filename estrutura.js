@@ -335,5 +335,14 @@ export default class Estrutura {
       precoVenda: '0.10',
       sort: '36',
     },
+    38: {
+      id: 38,
+      nome: 'Metal',
+      filtraPor: 'Cobre',
+      idRR: '0',
+      precoCompra: '20.00',
+      precoVenda: '28.00',
+      sort: '4.1',
+    },
   };
 }
